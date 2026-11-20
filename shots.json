@@ -1,0 +1,18 @@
+[
+  {
+    "name": "1-hero.jpg",
+    "query": "?shot=hero&seed=20261119"
+  },
+  {
+    "name": "2-drive.jpg",
+    "query": "?shot=drive&seed=20261119"
+  },
+  {
+    "name": "3-chase.jpg",
+    "query": "?shot=chase&seed=20261119"
+  },
+  {
+    "name": "4-missions.jpg",
+    "query": "?shot=missions&seed=20261119"
+  }
+]
